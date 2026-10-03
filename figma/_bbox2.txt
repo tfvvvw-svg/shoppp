@@ -1,0 +1,2 @@
+﻿discBadge(card3 strip): css x 747..801.5 y 821..846.5
+redOnHeader(css1215-1260,y70-105): none

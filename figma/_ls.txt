@@ -1,0 +1,34 @@
+﻿
+Name                              Length 
+----                              ------ 
+_hd                                      
+_small                                   
+404 Error.png                     202109 
+About.png                         3944734
+Account Dropdown With account.png 5333825
+Account.png                       297257 
+Cart.png                          313264 
+Category Dropdown.png             5217500
+CheckOut.png                      316427 
+Contact.png                       284120 
+E-Commerce HomePage.png           5233659
+Log In.png                        927350 
+phone_android-1.png               398    
+phone_android.png                 398    
+Product Details page.png          1208465
+Sign Up.png                       939788 
+Wishlist.png                      1185491
+_assetsizes.txt                   678    
+_assets_sheet.png                 960745 
+_c_catbs.png                      369760 
+_c_explore.png                    678029 
+_c_flash.png                      535541 
+_c_hero.png                       299490 
+_c_new.png                        624215 
+_c_serv.png                       267012 
+_ls.txt                           0      
+_scan.ps1                         1376   
+_slice.ps1                        1263   
+_slices.txt                       508    
+
+

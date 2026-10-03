@@ -1,0 +1,1 @@
+﻿navRegion(box=250..950 x 48..145 css): count=5654 bbox css x 250..949.5 y 100.5..144.5

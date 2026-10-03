@@ -1,0 +1,74 @@
+.wish-page {
+  min-height: 520px;
+}
+
+.wish-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  margin-top: 80px;
+}
+
+.wish-text {
+  font-size: 20px;
+}
+
+.wish-bottom {
+  margin-top: 60px;
+}
+
+.wish-login {
+  padding: 0 48px;
+}
+
+.wish-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.wish-head .wish-title {
+  margin-top: 0;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.wish-button {
+  display: grid;
+  place-items: center;
+  height: 56px;
+  padding: 0 48px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  background-color: transparent;
+  color: #000;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.wish-button:hover {
+  background-color: #db4444;
+  color: #fff;
+}
+
+.wish-section {
+  margin-top: 140px;
+}
+
+.wish-section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wish-tag {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 20px;
+  font-weight: 500;
+}

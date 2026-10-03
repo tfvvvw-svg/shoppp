@@ -1,0 +1,7 @@
+﻿y=104 css: pixels=417 first=151.5 last=999.5
+y=110 css: pixels=373 first=154 last=999.5
+y=120 css: pixels=84 first=958 last=999.5
+y=125 css: pixels=81 first=959.5 last=999.5
+y=130 css: pixels=0 first=-0.5 last=-0.5
+y=135 css: pixels=0 first=-0.5 last=-0.5
+y=140 css: pixels=0 first=-0.5 last=-0.5

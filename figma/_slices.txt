@@ -1,0 +1,8 @@
+c:\Users\user\Desktop\shop new\figma\_hd\home_01.png = 1600x1000
+c:\Users\user\Desktop\shop new\figma\_hd\home_02.png = 1600x1000
+c:\Users\user\Desktop\shop new\figma\_hd\home_03.png = 1600x1000
+c:\Users\user\Desktop\shop new\figma\_hd\home_04.png = 1600x1000
+c:\Users\user\Desktop\shop new\figma\_hd\home_05.png = 1600x1000
+c:\Users\user\Desktop\shop new\figma\_hd\home_06.png = 1600x1000
+c:\Users\user\Desktop\shop new\figma\_hd\home_07.png = 1600x558
+scale=0.555555555555556 regionH=1800 strips=7

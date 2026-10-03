@@ -1,0 +1,9 @@
+﻿=== row at=10860 css=5430 minrun=1 ===
+=== row at=2670 css=1335 minrun=1 ===
+d=270..2609 len=2340 | css=135..1304.5 clen=1170
+=== row at=3596 css=1798 minrun=1 ===
+d=270..2609 len=2340 | css=135..1304.5 clen=1170
+=== row at=2460 css=1230 minrun=3 ===
+d=1206..1673 len=468 | css=603..836.5 clen=234
+=== row at=3870 css=1935 minrun=1 ===
+d=2292..2609 len=318 | css=1146..1304.5 clen=159

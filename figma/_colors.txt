@@ -1,0 +1,13 @@
+﻿dividerSide = #B3B3B3
+hrDivider = #B3B3B3
+catBorder = #B3B3B3
+redBtn = #DB4444
+discBadge = #DB4444
+starGold = #FFAD33
+starEmpty = #FFAD33
+oldPrice = #AFAFAF
+reviews = #FFFFFF
+newBadge = #F5F5F5
+boxBg = #F5F5F5
+tagRed = #FFFFFF
+secTitle = #000000

@@ -1,0 +1,96 @@
+.about-page {
+  min-height: 520px;
+}
+
+.ab-story {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.ab-text {
+  width: 450px;
+}
+
+.ab-title {
+  font-size: 54px;
+  font-weight: 600;
+}
+
+.ab-p {
+  margin-top: 40px;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.ab-photo {
+  width: 704px;
+  height: 570px;
+  object-fit: cover;
+}
+
+.ab-stats {
+  display: flex;
+  gap: 30px;
+  margin-top: 140px;
+}
+
+.ab-stat {
+  width: 270px;
+  padding: 30px 0;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.ab-stat:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.ab-stat-on {
+  border-color: #db4444;
+  background-color: #db4444;
+  color: #fff;
+}
+
+.ab-icon {
+  display: grid;
+  place-items: center;
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background-color: #f5f5f5;
+  font-size: 36px;
+}
+
+.ab-stat-on .ab-icon {
+  background-color: #fff;
+  color: #db4444;
+}
+
+.ab-value {
+  margin-top: 24px;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.ab-label {
+  margin-top: 12px;
+  font-size: 16px;
+}
+
+.ab-team {
+  width: 1170px;
+  margin-top: 140px;
+}
+
+.ab-pref {
+  display: block;
+  width: 943px;
+  margin: 140px auto 0;
+}
+

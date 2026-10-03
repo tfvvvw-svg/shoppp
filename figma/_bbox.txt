@@ -1,0 +1,4 @@
+﻿redBadge(card1flash): css x 147..341 y 821..968 (w=388 h=294 dev)
+greenBadge(exCard1): css x 147..197.5 y 3659..3684.5 (w=101 h=51 dev)
+hoverBar(exCard2): css x 436..449.5 y 1018..1058 (w=27 h=80 dev)
+toTop(css1283): css x 1305..1350.5 y 5384..5429.5 (w=91 h=91 dev)

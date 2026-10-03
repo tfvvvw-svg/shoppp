@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  display: block;
+}
+
+@keyframes show {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes riseIn {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseSoft {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.06);
+  }
+}
+
+.page-anim {
+  animation: appear 0.4s ease;
+}
+
+.section-anim {
+  animation: riseIn 0.55s ease both;
+}
+
+.section-anim-2 {
+  animation: riseIn 0.55s ease 0.12s both;
+}
+
+.banner-anim {
+  animation: slideUp 0.7s ease both;
+}
+
+.card-discount,
+.p-discount,
+.cat-discount,
+.category-discount {
+  animation: pulseSoft 2.4s ease-in-out infinite;
+}
+
+.form-anim {
+  animation: riseIn 0.5s ease both;
+}
+
+.button,
+.btn-red,
+.cart-cancel,
+.ca-cancel,
+.wish-button,
+.w-btn,
+.account-save,
+.ac-save {
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.button:hover,
+.btn-red:hover,
+.wish-button:hover,
+.w-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(219, 68, 68, 0.35);
+}
+
+.top-text,
+.topbar-text,
+.hero-link,
+.hero-menu a,
+.category-name,
+.cat-name,
+.about-label,
+.ab-label,
+.footer-item,
+.f-item,
+.footer-text,
+.f-text,
+.find-name,
+.sd-name,
+.product-title,
+.pd-title,
+.card-name,
+.p-name,
+.contact-text,
+.ct-text {
+  overflow-wrap: break-word;
+}
+
+html[lang='uz'] .header-start,
+html[lang='uz'] .header-left {
+  gap: 90px;
+}
+
+html[lang='uz'] .nav {
+  gap: 28px;
+}
+
+html[lang='uz'] .header-end,
+html[lang='uz'] .header-right {
+  gap: 16px;
+}
+
+html[lang='uz'] .search {
+  width: 200px;
+}
+
+html[lang='uz'] .search-input,
+html[lang='uz'] .search input {
+  width: 140px;
+}
+
+input,
+textarea,
+button {
+  font-family: 'Poppins', sans-serif;
+  outline: none;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #db4444;
+}
+
+.wrap {
+  width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.crumbs {
+  font-size: 14px;
+  padding-top: 80px;
+}
+
+.crumbs a {
+  color: #808080;
+}
+
+.crumbs-now {
+  color: #000;
+}
+
+.page-title {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 12px;
+}
